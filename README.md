@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### This is the official account of the VGTB server.
+## This is the official account of the VGTB server.
+
+### VGTB official Blog：[VGTB](https://vgtb.khlfyy.top/)
 
 #### 🌱 I’m currently learning Minecraft redstone!
 
